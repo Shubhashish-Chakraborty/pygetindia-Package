@@ -19,6 +19,8 @@
 
 <hr>
 
-## This is a Very simple Python Package which i've published, one can simply use this in making a Weather API projects, Etc...
+## This is a Very simple Python Package which i've published, one can simply use this in making a Weather API projects, Etc...This might be useful.. :)
 
-## This might be useful.. :)
+## 🌐 Connect with me on:
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/__Shubhashish__)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/___shubhashish___)
